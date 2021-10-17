@@ -1,0 +1,15 @@
+/*
+Theme Name: briefwordpresstheme
+Theme URI: 
+Author: mrnkt
+Author URI: 
+Description: test site pour Happy Cats
+Version: 1.0
+*/
+
+body {
+  background: #FFFFFF;
+  font-family: "Source Sans Pro";
+  color: #4b5157;
+  margin: 0 auto;
+}
